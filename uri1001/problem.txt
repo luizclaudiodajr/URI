@@ -1,0 +1,4 @@
+Read 2 integer values and store them in variables A and B.
+Make the sum of A and B attributing the result to the variable X.
+Print X as example below.
+Does not present any message beyond what is being specified and do not forget to print the finish line after the result, otherwise you will receive "Presentation Error". 
