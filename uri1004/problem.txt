@@ -1,0 +1,13 @@
+The formula for calculating the area of a circle is: area = π. raio2. Whereas to this problem that π = 3.14159:
+
+- Execute the area, raising the value of X squared and multiplying by π.
+
+Entrance
+
+The entry contains a floating point value (double precision) for the variable radius.
+
+Output
+
+Display the message "=" followed by the value of the variable area, as the example below, with four places after the decimal point. 
+Use double-precision variables (double). 
+Like all problems, be sure to print the finish line after the result, otherwise you will receive "Presentation Error".
