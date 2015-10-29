@@ -10,7 +10,6 @@ public class Main {
 		Locale.setDefault(Locale.US);
 
 		double A, B, MEDIA;
-		final double MAX = 10.0;
 
 		Scanner entrada = new Scanner(System.in);
 
@@ -20,8 +19,6 @@ public class Main {
 		entrada.close();
 
 		MEDIA = ((3.5 * A) + (7.5 * B)) / 11;
-
-		MEDIA = MEDIA > MAX ? MAX : MEDIA;
 
 		System.out.printf("MEDIA = %.5f\n", MEDIA);
 	}
