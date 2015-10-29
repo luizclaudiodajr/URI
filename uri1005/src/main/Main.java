@@ -1,4 +1,4 @@
-package uri1006;
+package main;
 
 import java.util.Locale;
 import java.util.Scanner;
