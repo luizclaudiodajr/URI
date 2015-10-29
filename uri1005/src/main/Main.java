@@ -1,4 +1,4 @@
-package main;
+package uri1006;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -10,7 +10,7 @@ public class Main {
 		Locale.setDefault(Locale.US);
 
 		double A, B, MEDIA;
-		final double MAX = 10.0f;
+		final double MAX = 10.0;
 
 		Scanner entrada = new Scanner(System.in);
 
