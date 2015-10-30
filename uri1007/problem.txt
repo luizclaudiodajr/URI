@@ -1,0 +1,9 @@
+Read four integer values A, B, C and D. Next, calculate and show the difference of A and product B the product of C and D according to the formula: Difference = (A * B - C * D).
+
+Entrance
+
+The input file contains four integer values.
+
+Output
+
+Print DIFFERENCE message in all capital letters, as the example below, with a blank space before and after equality.
