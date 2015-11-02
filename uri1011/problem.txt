@@ -1,0 +1,13 @@
+Make a program that will calculate and show the volume of a sphere being provided the value of its radius (R).
+The formula to calculate volume is: (4/3) * pi * R3. 
+Consider (assign) to the value of pi 3.14159.
+
+Tip: When using the formula, try to use (4 / 3.0) or (4.0 / 3), for some languages (among them the C ++), assume that the result of the division of two integers is another integer.
+
+Entrance
+
+The input file contains an integer value corresponding to the radius of the sphere.
+
+Output
+
+The output should be a "VOLUME" message as the example provided below, with a space before and a space after equality. The value should be presented with three places after the point.
