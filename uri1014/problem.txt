@@ -1,0 +1,5 @@
+Calculate the average consumption of a car being offered the total distance (in kilometers) and the total fuel used (in liters).
+Entrance
+The input file contains two values: an integer value X representing the total distance (in kilometers) and a real value Y representing the total spent fuel with one digit after the decimal point.
+Output
+Present value is the average of the automobile consumption with 3 places after the decimal point, followed by "km / l" message.
