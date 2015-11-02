@@ -1,0 +1,12 @@
+Read the four values corresponding to x and y axes of any two points on the plane, p1 (x1, y1) and P2 (x2, y2) and calculate the distance between them, showing 4 decimal places after the decimal point, using the formula:
+
+Distance = sqrt((x2-x1)²+(y2-y1)²)
+
+Entrance
+
+The input file contains two data lines. The first line contains two floating point values: x1 y1 and the second line contains two floating point values x2 y2.
+
+Output
+
+Calculate and print the distance value according to the formula provided with 4 places after the point decimal.Leia the four values corresponding to x and y axes of any two points on the plane, p1 (x1, y1) and P2 (x2, y2) and calculate the distance between them, showing 4 decimal places after the decimal point, using the formula:
+
