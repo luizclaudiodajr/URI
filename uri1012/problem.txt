@@ -1,0 +1,15 @@
+Write a program that reads three values with double-precision floating point: A, B and C. Then calculate and show:
+ a) the area of the right triangle which has a base A and C at the time.
+ b) the area of the C circle of radius (pi = 3.14159)
+ c) the area of the trapezoid having a base and B and C at the time.
+ d) the area of the square having side B.
+ e) the area of the rectangle having sides A and B.
+ Entrance
+
+ The input file contains three values with a digit after the decimal point.
+
+ Output
+
+ The output file should contain 5 rows of data. 
+ Each line corresponds to one of the areas described above, always with corresponding message and a space between the two points and value.
+ The calculated value shall be displayed with 3 digits after the decimal point.
