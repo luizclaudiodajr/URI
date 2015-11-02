@@ -1,0 +1,6 @@
+This problem should read the code of a part 1, the number of parts 1, the unit value of each part 1, the code of a part 2, the number of parts 2, the unit value of each part 2 and calculates andIt shows the amount to be paid.
+ Entrance
+ The input file contains two data lines. In each line there will be 3 points, respectively two and a value to 2 decimal places.
+ Output
+ The output should be a message as the example provided below, remembering to leave a space after the colon and a space after the $.
+ The value should be presented with two places after the point.
