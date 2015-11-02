@@ -1,0 +1,11 @@
+Make a program that reads three values and display the largest of the three values read followed by the message "eh the greatest." Use the formula:
+
+maxAB = (a+b+abs(a-b))/2
+
+Entrance
+
+The input file contains three integer values.
+
+Output
+
+Print the largest of the three values followed by a space and the message "eh the greatest."
