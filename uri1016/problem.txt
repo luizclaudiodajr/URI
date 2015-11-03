@@ -1,0 +1,13 @@
+Two cars (X and Y) move in the same direction. The X car leaves a constant speed of 60 km / h and the car Y out at a constant speed of 90 km / h.
+
+ In one hour (60 minutes) Y can drive 30 kilometers to distance the X car, that is, can depart one kilometer every 2 minutes.
+
+ Read the distance (in kilometers) and calculate how long it takes (in minutes) for the Y car take that away from another car.
+
+ Entrance
+
+ The input file contains a whole number.
+
+ Output
+
+ Print the time followed by the message "minutes".
