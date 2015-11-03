@@ -1,0 +1,9 @@
+Joaozinho want to calculate and display the amount of liters of fuel spent on a trip when using a car doing 12 KM / L. For this I would like you auxiliasse through a simple program. To perform the calculation, one should provide the time spent traveling (in hours) and the average speed for the same (in km / h). Thus, one can obtain distance and then calculate how many liters would be required. Show the value to 3 decimal places after the point.
+
+Entrance
+
+The input file contains two integers. The first is the time spent traveling (in hours) and the second is the average rate over the same (in km / h).
+
+Output
+
+Print the number of liters required to make the trip with three digits after the decimal point
