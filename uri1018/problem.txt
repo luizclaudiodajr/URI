@@ -1,0 +1,9 @@
+Read an integer value. Next, calculate the smallest number of notes (bills) in which the value can be decomposed. The notes are considered to be 100, 50, 20, 10, 5, 2 and 1 The following shows the read value and the relation of required notes.
+
+Entrance
+
+The input file contains an integer N (0 <N <1000000).
+
+Output
+
+Print the read value and then the minimum amount of each kind necessary notes, according to the example provided. Do not forget to print the finish line after each line, otherwise your program will display the message: "Presentation Error".
