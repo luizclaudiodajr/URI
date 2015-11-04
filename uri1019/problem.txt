@@ -1,0 +1,9 @@
+Read an integer value, which is the duration in seconds of a particular event in a factory and let it expressed in hours: minutes: seconds.
+
+ Entrance
+
+ The input file contains an integer value N.
+
+ Output
+
+ Print the time read in the input file (seconds), converted to hours: minutes: seconds as the example provided.
