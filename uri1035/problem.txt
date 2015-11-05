@@ -1,0 +1,9 @@
+Read 4 integer values ​​A, B , C and D. Next, if B is greater than C and D is greater than the sum of A and C to D is greater than the sum of A and B and C and D , both are positive and if the variable A is even write the message " accepted values" , but write " not accepted values ​​."
+
+Entrance
+
+Four integers A, B , C and D.
+
+Output
+
+Show their message after validation of values.
