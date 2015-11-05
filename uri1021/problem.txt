@@ -1,0 +1,9 @@
+Read a floating point value with two decimal places. This represents a monetary value . Next , calculate the smallest possible number of banknotes and coins on which the value can be decomposed . The notes are considered to be 100 , 50, 20 , 10, 5, 2. 1 coins are possible , 0:50 , 0:25 , 0:10 , 0:05 and 0:01 . The following shows the relationship of necessary notes.
+
+Entrance
+
+The input file contains a floating point value N ( 0 ≤ N ≤ 1000000.00 ) .
+
+Output
+
+Print the minimum amount of notes and coins needed to change the initial value , according to the example provided.
