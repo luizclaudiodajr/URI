@@ -1,0 +1,9 @@
+Read 3 values floating point and make the calculation of the roots of quadratic equation. If it was not possible to calculate the roots, show the corresponding message "Impossible to calculate," if there is a divide by 0 or negative number root.
+
+Entrance
+
+Read three floating-point values (double) A, B and C.
+
+Output
+
+If there is no possibility of it calculate the roots, present the "Impossible to calculate" message. Otherwise, print the result of the roots with 5 digits after the point, with a corresponding message as example below. Always print the newline after each message.
