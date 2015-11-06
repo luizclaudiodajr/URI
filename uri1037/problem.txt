@@ -1,0 +1,13 @@
+You should make a program that reads any value and displays a message saying which of the following ranges ([0.25], (25,50], (50,75], (75.100]) this value is. Obviously if the value is not in any of these intervals should print the message "Out of range".
+
+The symbol (is "greater than." For example:
+[0.25] indicates values between 0 and 25.0000 including them.
+(25,50] indicates values greater than 25 Ex: 25.00001 up the value 50.0000000
+
+Entrance
+
+The input file contains a floating point number whatsoever.
+
+Output
+
+The output should be a message as example below.
