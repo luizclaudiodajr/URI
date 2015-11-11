@@ -1,0 +1,11 @@
+Based on the table below, write a program that reads the code of an item and the amount of this item. Next , calculate and show the value of the payable .
+
+price[]={4.0, 4.5, 5.0, 2.0, 1.5};
+
+Entrance
+
+The input file contains two integer values ​​corresponding to the code and the quantity of an item according to the table above.
+
+Output
+
+The output file should contain the message " Total: US $ " followed by the amount to be paid , with two places after the decimal point.
